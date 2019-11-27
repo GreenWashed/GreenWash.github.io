@@ -1,0 +1,43 @@
+
+
+body{
+	background-color: rgb(93,129,72);
+
+}
+p{
+	color:rgb(255,253,208);
+	font-family: Calibri;
+	text-align: center;
+
+}
+h1{
+	font-size: 86px;
+	text-align:center;
+	color:rgb(255,253,208);
+	font-family: 'Caveat Brush', cursive;
+}
+h2{
+	color: rgb(255,253,208);
+	font-family: 'Caveat Brush', cursive;
+	font-size: 34px;
+	text-align: center;
+}
+searchbar{
+	background-color: rgb(123,174,94);
+}
+a.navbar-brand{
+	font-family: 'Caveat Brush', cursive;
+}
+a.navbarNav{
+	text-align:center;
+}
+nav.navbar{
+	background-color: rgb(93,129,72);
+	color: rgb(255,253,208);
+}
+a{
+	color:rgb(255,253,208);
+}
+div.navbar-collapse{
+	text-align: center;
+}
