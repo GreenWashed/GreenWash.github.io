@@ -8,6 +8,7 @@ p{
 	color:rgb(255,253,208);
 	font-family: Calibri;
 	text-align: center;
+	margin: 30px;
 
 }
 h1{
@@ -22,8 +23,11 @@ h2{
 	font-size: 34px;
 	text-align: center;
 }
-searchbar{
-	background-color: rgb(123,174,94);
+h3{
+	color: rgb(255,253,208);
+	text-align:center;
+	font-family: 'Caveat Brush', cursive;
+	font-size: 56px;
 }
 a.navbar-brand{
 	font-family: 'Caveat Brush', cursive;
@@ -40,4 +44,35 @@ a{
 }
 div.navbar-collapse{
 	text-align: center;
+}
+
+
+.active-green-2 input[type=text]:focus:not([readonly]) {
+	border-bottom: 1px solid rgb(123,174,94);
+	background-color: rgb(255,253,208);
+	border-color: rgb(123,174,94);
+	border-width: medium;
+	color: rgb(93,129,72);
+  width: 100%;
+}
+
+.btn{
+	background-color: rgb(123,174,94);
+	color: rgb(255,253,208);
+}
+
+.container{
+
+}
+
+.fashionguides{
+	color:rgb(180,209,124);
+}
+
+ul.ourverdict{
+	color:rgb(255,253,208);
+	font-family: Calibri;
+	text-align: left;
+	margin: 30px;
+
 }
