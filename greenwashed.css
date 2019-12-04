@@ -62,6 +62,8 @@ div.navbar-collapse{
 }
 
 .container{
+	width: 400px;
+	height: 400px;
 
 }
 
@@ -80,4 +82,10 @@ ul.ourverdict{
 #carouselExampleCaptions{
 	margin: 150px;
 	margin-top: 15px;
+}
+.form-inline{
+	margin-left: 200px;
+}
+.foodpic{
+	text-align: center;
 }
