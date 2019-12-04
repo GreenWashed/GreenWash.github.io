@@ -9,7 +9,11 @@ p{
 	font-family: Calibri;
 	text-align: center;
 	margin: 30px;
+	font-size: 20px;
 
+}
+#verdict{
+	text-align: left;
 }
 h1{
 	font-size: 86px;
@@ -62,6 +66,8 @@ div.navbar-collapse{
 }
 
 .container{
+	width: 400px;
+	height: 400px;
 
 }
 
@@ -80,4 +86,10 @@ ul.ourverdict{
 #carouselExampleCaptions{
 	margin: 150px;
 	margin-top: 15px;
+}
+.form-inline{
+	margin-left: 200px;
+}
+.foodpic{
+	text-align: center;
 }
