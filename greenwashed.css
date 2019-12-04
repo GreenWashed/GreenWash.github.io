@@ -2,7 +2,6 @@
 
 body{
 	background-color: rgb(93,129,72);
-
 }
 p{
 	color:rgb(255,253,208);
@@ -10,7 +9,6 @@ p{
 	text-align: center;
 	margin: 30px;
 	font-size: 20px;
-
 }
 #verdict{
 	text-align: left;
@@ -65,11 +63,7 @@ div.navbar-collapse{
 	color: rgb(255,253,208);
 }
 
-.container{
-	width: 400px;
-	height: 400px;
 
-}
 
 .fashionguides{
 	color:rgb(180,209,124);
@@ -98,12 +92,9 @@ ul.ourverdict{
 }
 .fa:hover {
   opacity: 0.3;
-
+}
 .form-inline{
 	margin-left: 200px;
-}
-.foodpic{
-	text-align: center;
 }
 
 #circle-image{
@@ -114,4 +105,8 @@ ul.ourverdict{
 
 #info{
 	text-align: left;
+}
+
+.form-inline {
+	margin-left: 200px;
 }
