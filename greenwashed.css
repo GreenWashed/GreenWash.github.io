@@ -9,7 +9,11 @@ p{
 	font-family: Calibri;
 	text-align: center;
 	margin: 30px;
+	font-size: 20px;
 
+}
+#verdict{
+	text-align: left;
 }
 h1{
 	font-size: 86px;
