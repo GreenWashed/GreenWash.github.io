@@ -9,7 +9,11 @@ p{
 	font-family: Calibri;
 	text-align: center;
 	margin: 30px;
+	font-size: 20px;
 
+}
+#verdict{
+	text-align: left;
 }
 h1{
 	font-size: 86px;
@@ -62,6 +66,8 @@ div.navbar-collapse{
 }
 
 .container{
+	width: 400px;
+	height: 400px;
 
 }
 
@@ -82,6 +88,7 @@ ul.ourverdict{
 	margin-top: 15px;
 }
 
+
 .fa {
   padding: 20px;
   font-size: 20px;
@@ -91,4 +98,16 @@ ul.ourverdict{
 }
 .fa:hover {
   opacity: 0.3;
+
+.form-inline{
+	margin-left: 200px;
+}
+.foodpic{
+	text-align: center;
+}
+
+#circle-image{
+	border-radius: 50%;
+	width: 250px;
+	padding: 20px;
 }
